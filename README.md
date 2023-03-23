@@ -1,4 +1,4 @@
-#Desktopova a webova aplikace - zakladni eshop
+# Desktopova a webova aplikace - zakladni eshop
 
 - Obe aplikace napsane pomoci C#
 - Desktopova aplikace vyuziva Windows Forms
