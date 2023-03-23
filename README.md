@@ -4,3 +4,5 @@
 - desktopova aplikace vyuziva Windows Forms
 - webova aplikace pomoci ASP.NET
 
+- Vlastni ORM pro databazi (SQLite), vyuziti async, reflexe
+
