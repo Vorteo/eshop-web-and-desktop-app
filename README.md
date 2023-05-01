@@ -5,5 +5,5 @@
 - webova aplikace pomoci ASP.NET
 
 
-- Vlastni ORM pro databazi (SQLite), vyuziti async, reflexe
+- Vlastni ORM pro databazi (SQLite), vyuziti async, reflexe, regex...
 
